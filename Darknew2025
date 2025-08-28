@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ngquocviet/DarkPetSpawmner/refs/heads/main/Darknew2025"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JadeSCRIPTZ/VisualScripts/refs/heads/main/Loadingbar"))()
